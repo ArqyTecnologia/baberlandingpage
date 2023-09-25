@@ -6,4 +6,4 @@ Projeto de uma Landing Page  para uma barbaria ficticia. Ideal para pequenos com
 * Nextjs
 
 ##### Bibiotecas
-* 
+* Sass
